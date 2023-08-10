@@ -5,3 +5,4 @@ Plan:
         work on both and merge changes.
 
 adding this line in branch2
+adding change in master
